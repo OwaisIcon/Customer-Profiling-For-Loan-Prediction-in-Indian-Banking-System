@@ -1,0 +1,2 @@
+# Customer-Profiling-For-Loan-Prediction-in-Indian-Banking-System
+The dataset contains details of 95488 entries who have applied for different categories of loan. It has 92 feature - 26 numerical, 64 categorical and 2 date time feature.The target feature was a binary class. As binary class is a classification problem, built a Logistic Regression base model to predict the classes. The objective is to increase approval rate without altering/changing the Non-Performing Asset/default rate at 1%.
